@@ -1,5 +1,5 @@
 <h1>Do que se trata o projeto?</h1>
-<p>"Olá, o Projeto Integrador III, desenvolvido na faculdade FAESA, está em fase inicial e trata-se de uma análise de dados sobre a Fórmula 1, composto por um grupo de 5 pessoas. Utilizamos dados extraídos do site Kaggle para compreender melhor o esporte, incluindo as corridas, pilotos, equipes e resultados. Ainda estamos na fase inicial do projeto, mas buscando através da análise de dados para nos ajudar a obter insights. Agradecemos sua atenção e esperamos compartilhar mais detalhes com vocês em breve."</p>
+<p>Olá, o Projeto Integrador III, desenvolvido na faculdade FAESA, está em fase inicial e trata-se de uma análise de dados sobre a Fórmula 1, composto por um grupo de 5 pessoas. Utilizamos dados extraídos do site Kaggle para compreender melhor o esporte, incluindo as corridas, pilotos, equipes e resultados. Ainda estamos na fase inicial do projeto, mas buscando através da análise de dados para nos ajudar a obter insights. Agradecemos sua atenção e esperamos compartilhar mais detalhes com vocês em breve.</p>
 <hr>
 <h1>Integrantes do projeto</h1>
 <ul>
