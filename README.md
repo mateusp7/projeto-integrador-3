@@ -17,3 +17,9 @@
   <li>Clique com o botão direito sobre o seu banco e selecione a opção "Table Data import Wizard"</li>
   <li>Importe cada um dos arquivos (um de cada vez, visto que não é possível importar todos juntos)</li>
 </ol>
+<hr>
+<h1>Perguntas para análise de dados</h1>
+<ol>
+  <li>Qual o top 10 de pilotos mais jovens desses dados?</li>
+  <li>Quais os 5 pilotos com maior número de vitórias na história da Fórmula 1?</li>
+</ol>
