@@ -11,9 +11,9 @@
 </ul>
 <hr>
 <h1>Passo a Passo para importação das tabelas</h1>
-<ul>
-  <ol>Baixe os arquivos .csv que estão na pasta "csv_files_formula_one"</ol>
-  <ol>Abra o Mysql Workbench e crie um banco</ol>
-  <ol>Clique com o botão direito sobre o seu banco e selecione a opção "Table Data import Wizard"</ol>
-  <ol>Importe cada um dos arquivos (um de cada vez, visto que não é possível importar todos juntos)</ol>
-</ul>
+<ol>
+  <li>Baixe os arquivos .csv que estão na pasta "csv_files_formula_one"</li>
+  <li>Abra o Mysql Workbench e crie um banco</li>
+  <li>Clique com o botão direito sobre o seu banco e selecione a opção "Table Data import Wizard"</li>
+  <li>Importe cada um dos arquivos (um de cada vez, visto que não é possível importar todos juntos)</li>
+</ol>
