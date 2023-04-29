@@ -20,6 +20,9 @@
 <hr>
 <h1>Perguntas para análise de dados</h1>
 <ol>
-  <li>Qual o top 10 de pilotos mais jovens desses dados?</li>
-  <li>Quais os 5 pilotos com maior número de vitórias na história da Fórmula 1?</li>
+  <li>Qual o top 10 de pilotos mais jovens na formula 1?</li>
+  <li>Pilotos e suas vitórias na formula 1</li>
+  <li>Qual é a distribuição do número de corridas por país na história da Formula 1?</li>
+  <li>Qual a distribuição do número de vitórias por equipe na história da Fórmula 1?</li>
+  <li>Qual é a relação entre o tempo de volta de um piloto e a posição final no circuito de interlagos?</li>
 </ol>
